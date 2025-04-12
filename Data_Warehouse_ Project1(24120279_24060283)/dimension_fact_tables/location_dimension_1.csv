@@ -1,0 +1,585 @@
+location_key,state,sa4_region,lga_name
+1,NSW,Riverina,Wagga Wagga
+2,NSW,Sydney - Baulkham Hills and Hawkesbury,Hawkesbury
+3,Tas,Launceston and North East,Northern Midlands
+4,NSW,New England and North West,Armidale Regional
+5,Vic,Hume,Murrindindi
+6,Qld,Toowoomba,Lockyer Valley
+7,SA,Barossa - Yorke - Mid North,Wakefield
+8,WA,Bunbury,Harvey
+9,Qld,Darling Downs - Maranoa,Southern Downs
+10,Tas,Hobart,Brighton
+11,Tas,Launceston and North East,West Tamar
+12,SA,South Australia - South East,Mid Murray
+13,NSW,Sydney - Outer West and Blue Mountains,Blue Mountains
+14,NSW,Capital Region,Upper Lachlan
+15,SA,South Australia - South East,Wattle Range
+16,Qld,Cairns,Cairns
+17,ACT,Australian Capital Territory,Unincorporated ACT
+18,NSW,Illawarra,Wollongong
+19,NSW,Sydney - Outer West and Blue Mountains,Penrith
+20,NSW,Hunter Valley exc Newcastle,Upper Hunter
+21,Qld,Wide Bay,South Burnett
+22,NSW,Central West,Mid-Western Regional
+23,WA,Western Australia - Wheat Belt,Northam
+24,NSW,Sydney - Inner South West,Canterbury-Bankstown
+25,NT,Darwin,Litchfield
+26,WA,Perth - South East,Armadale
+27,Vic,Hume,Mitchell
+28,NSW,Murray,Greater Hume
+29,SA,Barossa - Yorke - Mid North,Barossa
+30,NSW,Mid North Coast,Port Macquarie-Hastings
+31,Qld,Cairns,Douglas
+32,Qld,Mackay - Isaac - Whitsunday,Mackay
+33,SA,South Australia - South East,Yankalilla
+34,Qld,Logan - Beaudesert,Logan
+35,Tas,Launceston and North East,Dorset
+36,NSW,Mid North Coast,Nambucca Valley
+37,NSW,Far West and Orana,Narromine
+38,Qld,Wide Bay,Fraser Coast
+39,SA,South Australia - Outback,Unincorporated SA
+40,NSW,Illawarra,Shellharbour
+41,NSW,New England and North West,Narrabri
+42,Qld,Queensland - Outback,Cook
+43,NSW,New England and North West,Tenterfield
+44,Vic,Bendigo,Greater Bendigo
+45,NSW,Central Coast,Central Coast
+46,NSW,New England and North West,Tamworth Regional
+47,Vic,Melbourne - North East,Whittlesea
+48,NSW,Capital Region,Hilltops
+49,NSW,Central West,Forbes
+50,Qld,Toowoomba,Toowoomba
+51,NSW,Newcastle and Lake Macquarie,Lake Macquarie
+52,Qld,Central Queensland,Livingstone
+53,NSW,Sydney - Blacktown,Blacktown
+54,NSW,Far West and Orana,Dubbo Regional
+55,NSW,Murray,Balranald
+56,Qld,Queensland - Outback,Lockhart River
+57,Vic,Ballarat,Golden Plains
+58,SA,Barossa - Yorke - Mid North,Light
+59,Qld,Ipswich,Ipswich
+60,Qld,Cairns,Cassowary Coast
+61,SA,South Australia - Outback,Tumby Bay
+62,NSW,Sydney - South West,Liverpool
+63,NSW,Sydney - Parramatta,Cumberland
+64,NSW,Hunter Valley exc Newcastle,Muswellbrook
+65,Qld,Moreton Bay - North,Moreton Bay
+66,NSW,Richmond - Tweed,Ballina
+67,NSW,Richmond - Tweed,Kyogle
+68,Qld,Wide Bay,Bundaberg
+69,Vic,Melbourne - Inner,Melbourne
+70,Qld,Brisbane - South,Brisbane
+71,NSW,Riverina,Snowy Valleys
+72,Qld,Mackay - Isaac - Whitsunday,Whitsunday
+73,NSW,Sydney - South West,Fairfield
+74,NSW,Capital Region,Yass Valley
+75,Qld,Central Queensland,Central Highlands (Qld)
+76,NSW,Sydney - Baulkham Hills and Hawkesbury,The Hills
+77,SA,Adelaide - North,Salisbury
+78,NSW,Hunter Valley exc Newcastle,Port Stephens
+79,Vic,Melbourne - North West,Macedon Ranges
+80,Vic,Warrnambool and South West,Moyne
+81,Vic,Melbourne - South East,Cardinia
+82,Vic,Latrobe - Gippsland,East Gippsland
+83,NSW,Sydney - Baulkham Hills and Hawkesbury,Hornsby
+84,Qld,Queensland - Outback,Mareeba
+85,Qld,Central Queensland,Rockhampton
+86,NSW,Mid North Coast,Mid-Coast
+87,Vic,Warrnambool and South West,Glenelg
+88,Qld,Darling Downs - Maranoa,Western Downs
+89,SA,Adelaide - West,Port Adelaide Enfield
+90,NSW,Central West,Cabonne
+91,Qld,Gold Coast,Gold Coast
+92,Vic,Mornington Peninsula,Frankston
+93,NSW,New England and North West,Moree Plains
+94,NSW,Sydney - Parramatta,Parramatta
+95,Tas,Launceston and North East,Meander Valley
+96,NSW,Capital Region,Queanbeyan-Palerang Regional
+97,NSW,Capital Region,Snowy Monaro Regional
+98,NSW,Murray,Federation
+99,Qld,Brisbane Inner City,Brisbane
+100,NSW,Central West,Cowra
+101,NSW,Capital Region,Goulburn Mulwaree
+102,Qld,Wide Bay,Gympie
+103,Qld,Moreton Bay - South,Moreton Bay
+104,NSW,Sydney - North Sydney and Hornsby,Willoughby
+105,NSW,Capital Region,Shoalhaven
+106,Vic,Melbourne - North East,Nillumbik
+107,SA,South Australia - South East,Tatiara
+108,NSW,Richmond - Tweed,Tweed
+109,Vic,North West,Ararat
+110,Vic,Warrnambool and South West,Colac Otway
+111,Qld,Queensland - Outback,McKinlay
+112,NSW,Hunter Valley exc Newcastle,Singleton
+113,Qld,Central Queensland,Gladstone
+114,NSW,Central West,Lithgow
+115,NSW,Sydney - Outer South West,Campbelltown
+116,Qld,Sunshine Coast,Sunshine Coast
+117,NSW,Far West and Orana,Warrumbungle
+118,Qld,Sunshine Coast,Noosa
+119,NSW,Newcastle and Lake Macquarie,Port Stephens
+120,SA,Adelaide - North,Gawler
+121,Vic,Hume,Alpine
+122,Qld,Ipswich,Brisbane
+123,Vic,Latrobe - Gippsland,Baw Baw
+124,Qld,Mackay - Isaac - Whitsunday,Isaac
+125,Qld,Darling Downs - Maranoa,Maranoa
+126,Vic,Warrnambool and South West,Southern Grampians
+127,NSW,Hunter Valley exc Newcastle,Cessnock
+128,Qld,Logan - Beaudesert,Scenic Rim
+129,Qld,Ipswich,Somerset
+130,Qld,Townsville,Hinchinbrook
+131,Vic,Melbourne - Inner South,Stonnington
+132,SA,Adelaide - North,Playford
+133,NSW,Far West and Orana,Cobar
+134,SA,Adelaide - Central and Hills,Adelaide Hills
+135,NSW,Capital Region,Bega Valley
+136,SA,Adelaide - North,Tea Tree Gully
+137,NSW,Illawarra,Kiama
+138,NSW,Sydney - Outer South West,Wollondilly
+139,Qld,Ipswich,Scenic Rim
+140,Vic,Melbourne - South East,Casey
+141,SA,Barossa - Yorke - Mid North,Northern Areas
+142,Qld,Cairns,Tablelands
+143,NSW,Sydney - City and Inner South,Sydney
+144,NSW,Murray,Albury
+145,Vic,Melbourne - Inner East,Boroondara
+146,Qld,Brisbane - East,Redland
+147,Vic,Latrobe - Gippsland,South Gippsland
+148,Vic,Melbourne - Outer East,Yarra Ranges
+149,Vic,Geelong,Surf Coast
+150,SA,Adelaide - Central and Hills,Mount Barker
+151,Qld,Brisbane - East,Brisbane
+152,NSW,Hunter Valley exc Newcastle,Maitland
+153,Tas,Hobart,Hobart
+154,SA,Adelaide - South,Mitcham
+155,NSW,Coffs Harbour - Grafton,Clarence Valley
+156,SA,Adelaide - Central and Hills,Adelaide
+157,Tas,Hobart,Clarence
+158,NSW,Richmond - Tweed,Lismore
+159,Vic,Shepparton,Greater Shepparton
+160,Vic,Melbourne - North West,Moreland
+161,NSW,Riverina,Narrandera
+162,Tas,South East,Huon Valley
+163,Qld,Townsville,Townsville
+164,NSW,Riverina,Griffith
+165,Vic,Hume,Wodonga
+166,NSW,Hunter Valley exc Newcastle,Mid-Coast
+167,Vic,Melbourne - Inner,Darebin
+168,Vic,Ballarat,Ballarat
+169,NSW,Southern Highlands and Shoalhaven,Wingecarribee
+170,Vic,Melbourne - Outer East,Maroondah
+171,Qld,Wide Bay,North Burnett
+172,Vic,Mornington Peninsula,Mornington Peninsula
+173,SA,Adelaide - Central and Hills,Unley
+174,SA,South Australia - South East,Alexandrina
+175,Vic,Melbourne - West,Melton
+176,Qld,Townsville,Burdekin
+177,Vic,Melbourne - Outer East,Knox
+178,Vic,Melbourne - South East,Monash
+179,NSW,Far West and Orana,Unincorporated
+180,Qld,Queensland - Outback,Barcaldine
+181,Vic,Melbourne - West,Wyndham
+182,NSW,New England and North West,Glen Innes Severn
+183,Qld,Brisbane - West,Brisbane
+184,NSW,Sydney - Northern Beaches,Northern Beaches
+185,NSW,Sydney - Inner South West,Georges River
+186,Vic,Melbourne - South East,Kingston (Vic.)
+187,Vic,Melbourne - Inner East,Manningham
+188,NSW,Central West,Bathurst Regional
+189,SA,South Australia - Outback,Wudinna
+190,NSW,New England and North West,Inverell
+191,Vic,Melbourne - West,Brimbank
+192,Vic,Melbourne - North East,Darebin
+193,SA,Adelaide - West,Charles Sturt
+194,Tas,Launceston and North East,Flinders (Tas.)
+195,Tas,West and North West,Burnie
+196,Vic,Geelong,Greater Geelong
+197,SA,Adelaide - South,Onkaparinga
+198,Tas,Launceston and North East,Launceston
+199,Vic,Hume,Indigo
+200,Vic,Melbourne - Inner,Yarra
+201,Vic,Melbourne - Inner,Port Phillip
+202,NT,Northern Territory - Outback,Roper Gulf
+203,Tas,West and North West,Waratah-Wynyard
+204,Vic,Shepparton,Campaspe
+205,NT,Northern Territory - Outback,Barkly
+206,NSW,Sydney - Parramatta,Blacktown
+207,NSW,Central West,Blayney
+208,SA,Adelaide - Central and Hills,Campbelltown (SA)
+209,Vic,Latrobe - Gippsland,Latrobe (Vic.)
+210,NT,Darwin,Palmerston
+211,NSW,New England and North West,Gunnedah
+212,Tas,Launceston and North East,Break O'Day
+213,Vic,North West,Buloke
+214,Vic,North West,West Wimmera
+215,NSW,Sydney - North Sydney and Hornsby,Ku-ring-gai
+216,NSW,Southern Highlands and Shoalhaven,Shoalhaven
+217,Vic,Warrnambool and South West,Warrnambool
+218,NSW,Murray,Berrigan
+219,NSW,Far West and Orana,Warren
+220,NT,Northern Territory - Outback,Victoria Daly
+221,Vic,Shepparton,Moira
+222,Qld,Brisbane - North,Brisbane
+223,SA,South Australia - South East,Berri Barmera
+224,Vic,Melbourne - Inner,Moonee Valley
+225,Vic,Melbourne - South East,Greater Dandenong
+226,Vic,Geelong,Golden Plains
+227,Qld,Darling Downs - Maranoa,Toowoomba
+228,Vic,Melbourne - North West,Moonee Valley
+229,NSW,Sydney - Inner West,Inner West
+230,SA,South Australia - Outback,Whyalla
+231,Qld,Queensland - Outback,Mount Isa
+232,Vic,Melbourne - Inner South,Kingston (Vic.)
+233,Vic,Melbourne - West,Maribyrnong
+234,SA,Adelaide - South,Marion
+235,Vic,North West,Mildura
+236,NSW,Sydney - North Sydney and Hornsby,Hornsby
+237,Vic,Hume,Mansfield
+238,Qld,Townsville,Charters Towers
+239,NSW,Richmond - Tweed,Richmond Valley
+240,NSW,Sydney - Sutherland,Sutherland
+241,Vic,Melbourne - North West,Hume
+242,NSW,Newcastle and Lake Macquarie,Newcastle
+243,Vic,Melbourne - Inner South,Glen Eira
+244,Vic,North West,Yarriambiack
+245,Vic,Ballarat,Pyrenees
+246,NSW,Sydney - Inner South West,Strathfield
+247,NSW,Sydney - Inner South West,Bayside
+248,NSW,Coffs Harbour - Grafton,Coffs Harbour
+249,SA,South Australia - South East,Murray Bridge
+250,NSW,Murray,Murray River
+251,NSW,Sydney - Outer South West,Camden
+252,Tas,Hobart,Glenorchy
+253,NSW,Sydney - Eastern Suburbs,Randwick
+254,NSW,Sydney - Inner West,Strathfield
+255,NSW,Sydney - Ryde,Hunters Hill
+256,Vic,Hume,Wangaratta
+257,NSW,Central West,Parkes
+258,NSW,Richmond - Tweed,Byron
+259,NSW,Far West and Orana,Cabonne
+260,Vic,Ballarat,Moorabool
+261,Vic,Hume,Benalla
+262,NSW,Coffs Harbour - Grafton,Bellingen
+263,Vic,Latrobe - Gippsland,Wellington
+264,NSW,Murray,Edward River
+265,SA,South Australia - South East,Coorong
+266,Tas,Launceston and North East,George Town
+267,NSW,Sydney - Ryde,Ryde
+268,Vic,Latrobe - Gippsland,Bass Coast
+269,Qld,Queensland - Outback,Richmond
+270,Vic,Hume,Strathbogie
+271,NSW,Murray,Hay
+272,NSW,Central West,Weddin
+273,Vic,Melbourne - West,Moorabool
+274,NSW,Central West,Lachlan
+275,NSW,Sydney - Eastern Suburbs,Waverley
+276,Vic,North West,Northern Grampians
+277,Qld,Cairns,Mareeba
+278,Vic,North West,Horsham
+279,SA,Adelaide - North,Adelaide Plains
+280,Vic,Melbourne - Inner,Stonnington
+281,SA,Barossa - Yorke - Mid North,Mount Remarkable
+282,NSW,Far West and Orana,Gilgandra
+283,SA,Barossa - Yorke - Mid North,Adelaide Plains
+284,Qld,Darling Downs - Maranoa,Goondiwindi
+285,Vic,Melbourne - North East,Mitchell
+286,SA,Barossa - Yorke - Mid North,Clare and Gilbert Valleys
+287,SA,Adelaide - West,West Torrens
+288,Vic,Melbourne - Outer East,Whitehorse
+289,Qld,Queensland - Outback,Cloncurry
+290,NSW,Sydney - South West,Penrith
+291,Tas,Hobart,Sorell
+292,Vic,Hume,Towong
+293,SA,South Australia - South East,Grant
+294,Vic,Ballarat,Hepburn
+295,Qld,Ipswich,Lockyer Valley
+296,Tas,West and North West,Circular Head
+297,Vic,North West,Swan Hill
+298,NSW,Riverina,Murrumbidgee
+299,NSW,Central West,Orange
+300,SA,Adelaide - Central and Hills,Walkerville
+301,NSW,Sydney - City and Inner South,Bayside
+302,NSW,Illawarra,Sutherland
+303,Vic,Melbourne - Inner East,Whitehorse
+304,NSW,Murray,Wentworth
+305,Tas,South East,Tasman
+306,Tas,West and North West,Latrobe (Tas.)
+307,SA,South Australia - Outback,Port Augusta
+308,NSW,New England and North West,Liverpool Plains
+309,Qld,Central Queensland,Banana
+310,WA,Western Australia - Outback (North),Port Hedland
+311,NSW,Sydney - City and Inner South,Inner West
+312,Vic,Bendigo,Loddon
+313,NSW,Capital Region,Eurobodalla
+314,SA,Barossa - Yorke - Mid North,Barunga West
+315,Tas,West and North West,West Coast
+316,Qld,Queensland - Outback,Etheridge
+317,NSW,Central West,Bland
+318,NSW,Central West,Oberon
+319,Vic,Warrnambool and South West,Corangamite
+320,SA,Barossa - Yorke - Mid North,Yorke Peninsula
+321,Tas,Hobart,Derwent Valley
+322,NSW,Sydney - Ryde,Hornsby
+323,SA,Barossa - Yorke - Mid North,Port Pirie
+324,Tas,West and North West,Devonport
+325,Qld,Queensland - Outback,Flinders (Qld)
+326,NSW,Sydney - Inner West,Burwood
+327,NT,Northern Territory - Outback,Alice Springs
+328,Qld,Moreton Bay - North,Somerset
+329,NSW,New England and North West,Gwydir
+330,SA,Adelaide - North,Port Adelaide Enfield
+331,Vic,Bendigo,Macedon Ranges
+332,Vic,Melbourne - North East,Banyule
+333,NSW,Far West and Orana,Coonamble
+334,NSW,Mid North Coast,Kempsey
+335,NSW,Riverina,Carrathool
+336,Qld,Queensland - Outback,Barcoo
+337,Vic,Melbourne - West,Hobsons Bay
+338,NSW,Riverina,Temora
+339,SA,South Australia - South East,Karoonda East Murray
+340,Vic,Latrobe - Gippsland,Unincorporated Vic
+341,Vic,North West,Gannawarra
+342,SA,South Australia - Outback,Ceduna
+343,NSW,Sydney - Ryde,Parramatta
+344,NT,Darwin,Darwin
+345,NT,Northern Territory - Outback,Central Desert
+346,NSW,Sydney - Outer South West,Sutherland
+347,Qld,Queensland - Outback,Carpentaria
+348,Qld,Queensland - Outback,Murweh
+349,SA,South Australia - South East,Renmark Paringa
+350,SA,South Australia - South East,Loxton Waikerie
+351,Tas,West and North West,Central Coast (Tas.)
+352,SA,Adelaide - Central and Hills,Norwood Payneham and St Peters
+353,NT,Northern Territory - Outback,MacDonnell
+354,NSW,Riverina,Leeton
+355,Qld,Gold Coast,Scenic Rim
+356,Tas,South East,Kingborough
+357,Vic,Melbourne - Inner,Moreland
+358,SA,Barossa - Yorke - Mid North,Copper Coast
+359,NSW,Riverina,Lockhart
+360,SA,South Australia - South East,Naracoorte Lucindale
+361,SA,South Australia - South East,Southern Mallee
+362,Tas,West and North West,Kentish
+363,SA,Barossa - Yorke - Mid North,Goyder
+364,Vic,Melbourne - North West,Brimbank
+365,SA,South Australia - Outback,Flinders Ranges
+366,NSW,Riverina,Junee
+367,SA,South Australia - South East,Victor Harbor
+368,SA,Adelaide - Central and Hills,Burnside
+369,NT,Northern Territory - Outback,Coomalie
+370,Vic,Melbourne - Outer East,Manningham
+371,NSW,Sydney - North Sydney and Hornsby,Mosman
+372,Tas,South East,Glamorgan-Spring Bay
+373,NSW,Sydney - Outer West and Blue Mountains,Hawkesbury
+374,Vic,Melbourne - North East,Murrindindi
+375,Tas,South East,Southern Midlands
+376,Vic,Bendigo,Mount Alexander
+377,NSW,Sydney - North Sydney and Hornsby,North Sydney
+378,NSW,Sydney - Eastern Suburbs,Woollahra
+379,SA,Adelaide - Central and Hills,Prospect
+380,NT,Northern Territory - Outback,Katherine
+381,Qld,Queensland - Outback,Northern Peninsula Area
+382,NSW,Sydney - Outer South West,Wingecarribee
+383,NT,Darwin,Unincorporated NT
+384,SA,Barossa - Yorke - Mid North,Orroroo Carrieton
+385,Vic,Ballarat,Central Goldfields
+386,NT,Northern Territory - Outback,Unincorporated NT
+387,NSW,Far West and Orana,Central Darling
+388,Qld,Darling Downs - Maranoa,Balonne
+389,Tas,Hobart,Kingborough
+390,NSW,Far West and Orana,Walgett
+391,NSW,Riverina,Coolamon
+392,Qld,Queensland - Outback,Bulloo
+393,NSW,Sydney - North Sydney and Hornsby,Lane Cove
+394,NSW,New England and North West,Walcha
+395,NSW,Far West and Orana,Bogan
+396,NSW,Illawarra,Wollondilly
+397,SA,South Australia - Outback,Cleve
+398,NT,Northern Territory - Outback,West Arnhem
+399,NSW,Sydney - Parramatta,Canterbury-Bankstown
+400,Tas,West and North West,King Island
+401,SA,South Australia - South East,Kangaroo Island
+402,NSW,New England and North West,Uralla
+403,SA,Adelaide - South,Holdfast Bay
+404,NSW,Far West and Orana,Brewarrina
+405,NSW,Sydney - Outer West and Blue Mountains,Wollondilly
+406,NT,Northern Territory - Outback,East Arnhem
+407,SA,South Australia - Outback,Port Lincoln
+408,SA,Adelaide - North,Light
+409,NSW,Sydney - South West,Camden
+410,Qld,Queensland - Outback,Longreach
+411,NSW,Newcastle and Lake Macquarie,Maitland
+412,SA,South Australia - Outback,Lower Eyre Peninsula
+413,WA,Western Australia - Wheat Belt,Dandaragan
+414,WA,Western Australia - Wheat Belt,York
+415,WA,Perth - South West,Rockingham
+416,WA,Western Australia - Wheat Belt,Plantagenet
+417,WA,Perth - South West,Kwinana
+418,WA,Mandurah,Murray
+419,WA,Western Australia - Wheat Belt,Dumbleyung
+420,WA,Perth - North West,Stirling
+421,SA,South Australia - South East,Robe
+422,WA,Perth - Inner,Cambridge
+423,WA,Perth - North East,Swan
+424,WA,Perth - North West,Wanneroo
+425,WA,Perth - South East,Canning
+426,WA,Perth - South East,Gosnells
+427,NSW,Sydney - Ryde,The Hills
+428,WA,Perth - South East,Serpentine-Jarrahdale
+429,WA,Mandurah,Mandurah
+430,WA,Western Australia - Wheat Belt,Woodanilling
+431,NSW,Central West,Warrumbungle
+432,WA,Western Australia - Wheat Belt,Dowerin
+433,WA,Western Australia - Outback (South),Kalgoorlie-Boulder
+434,WA,Western Australia - Outback (South),Greater Geraldton
+435,WA,Perth - North East,Bayswater
+436,Qld,Queensland - Outback,Doomadgee
+437,Qld,Queensland - Outback,Croydon
+438,WA,Western Australia - Wheat Belt,Albany
+439,Tas,South East,Central Highlands (Tas.)
+440,WA,Western Australia - Wheat Belt,Chittering
+441,WA,Western Australia - Outback (South),Perenjori
+442,WA,Western Australia - Outback (South),Mount Magnet
+443,WA,Bunbury,Donnybrook-Balingup
+444,Qld,Queensland - Outback,Hope Vale
+445,WA,Bunbury,Augusta Margaret River
+446,WA,Perth - Inner,Vincent
+447,WA,Western Australia - Wheat Belt,Wickepin
+448,Vic,Melbourne - North West,Melton
+449,WA,Perth - South West,Cockburn
+450,WA,Perth - South East,Victoria Park
+451,WA,Bunbury,Bunbury
+452,WA,Perth - South East,Kalamunda
+453,WA,Western Australia - Wheat Belt,Gingin
+454,WA,Western Australia - Wheat Belt,Moora
+455,WA,Perth - Inner,Perth
+456,WA,Bunbury,Busselton
+457,WA,Western Australia - Wheat Belt,Williams
+458,Tas,South East,Derwent Valley
+459,Qld,Queensland - Outback,Quilpie
+460,WA,Western Australia - Wheat Belt,Kojonup
+461,WA,Western Australia - Wheat Belt,Mount Marshall
+462,SA,South Australia - South East,Kingston (SA)
+463,WA,Western Australia - Outback (North),Karratha
+464,SA,South Australia - Outback,Elliston
+465,WA,Western Australia - Outback (South),Coolgardie
+466,Vic,Melbourne - Inner South,Monash
+467,WA,Western Australia - Outback (North),Derby-West Kimberley
+468,WA,Perth - North East,Mundaring
+469,WA,Perth - South East,Belmont
+470,WA,Western Australia - Wheat Belt,Nungarin
+471,Vic,Melbourne - Inner South,Bayside (Vic.)
+472,WA,Perth - South West,Melville
+473,WA,Perth - North East,Bassendean
+474,WA,Western Australia - Wheat Belt,Yilgarn
+475,WA,Western Australia - Outback (North),Broome
+476,WA,Western Australia - Outback (South),Chapman Valley
+477,WA,Western Australia - Wheat Belt,Broomehill-Tambellup
+478,WA,Western Australia - Outback (South),Meekatharra
+479,WA,Western Australia - Outback (South),Esperance
+480,Qld,Moreton Bay - North,Sunshine Coast
+481,WA,Bunbury,Capel
+482,WA,Western Australia - Outback (South),Dundas
+483,NSW,Riverina,Federation
+484,WA,Western Australia - Wheat Belt,Lake Grace
+485,WA,Bunbury,Dardanup
+486,WA,Western Australia - Wheat Belt,Kondinin
+487,WA,Western Australia - Wheat Belt,Kent
+488,NSW,Sydney - Inner West,Canada Bay
+489,WA,Western Australia - Wheat Belt,Wagin
+490,WA,Bunbury,Manjimup
+491,NSW,Sydney - Parramatta,Fairfield
+492,WA,Western Australia - Wheat Belt,Denmark
+493,WA,Western Australia - Wheat Belt,Boddington
+494,WA,Western Australia - Wheat Belt,Bruce Rock
+495,WA,Western Australia - Wheat Belt,Kulin
+496,WA,Western Australia - Wheat Belt,Cuballing
+497,NSW,Hunter Valley exc Newcastle,Dungog
+498,WA,Western Australia - Outback (South),Carnarvon
+499,Vic,North West,Hindmarsh
+500,WA,Western Australia - Outback (North),Wyndham-East Kimberley
+501,WA,Western Australia - Wheat Belt,Beverley
+502,WA,Western Australia - Outback (South),Ravensthorpe
+503,WA,Perth - North West,Joondalup
+504,SA,South Australia - Outback,Coober Pedy
+505,WA,Western Australia - Wheat Belt,Dalwallinu
+506,WA,Western Australia - Wheat Belt,Gnowangerup
+507,Vic,Ballarat,Loddon
+508,WA,Western Australia - Wheat Belt,Wongan-Ballidu
+509,WA,Bunbury,Collie
+510,NSW,Riverina,Cootamundra-Gundagai
+511,WA,Western Australia - Outback (North),East Pilbara
+512,WA,Western Australia - Outback (South),Menzies
+513,WA,Western Australia - Outback (North),Halls Creek
+514,WA,Western Australia - Outback (South),Irwin
+515,Qld,Cairns,Yarrabah
+516,WA,Western Australia - Wheat Belt,Pingelly
+517,WA,Western Australia - Outback (South),Cue
+518,WA,Western Australia - Wheat Belt,Quairading
+519,NSW,Sydney - City and Inner South,Randwick
+520,Qld,Queensland - Outback,Mornington
+521,WA,Western Australia - Wheat Belt,Wandering
+522,WA,Bunbury,Nannup
+523,NSW,Far West and Orana,Broken Hill
+524,WA,Western Australia - Outback (South),Ngaanyatjarraku
+525,WA,Western Australia - Wheat Belt,Corrigin
+526,SA,South Australia - Outback,Anangu Pitjantjatjara Yunkunytjatjara
+527,WA,Perth - South West,Fremantle
+528,WA,Western Australia - Wheat Belt,Toodyay
+529,SA,South Australia - Outback,Streaky Bay
+530,WA,Western Australia - Wheat Belt,Victoria Plains
+531,WA,Western Australia - Outback (South),Northampton
+532,WA,Bunbury,Bridgetown-Greenbushes
+533,SA,South Australia - Outback,Kimba
+534,WA,Western Australia - Wheat Belt,Katanning
+535,WA,Western Australia - Wheat Belt,Jerramungup
+536,WA,Western Australia - Outback (South),Carnamah
+537,NSW,Mid North Coast,Nambucca
+538,WA,Western Australia - Outback (North),Ashburton
+539,WA,Western Australia - Wheat Belt,West Arthur
+540,SA,South Australia - South East,Mount Gambier
+541,WA,Perth - South East,South Perth
+542,WA,Western Australia - Wheat Belt,Brookton
+543,Qld,Queensland - Outback,Burke
+544,WA,Perth - Inner,Nedlands
+545,WA,Perth - Inner,Stirling
+546,SA,South Australia - Outback,Franklin Harbour
+547,WA,Bunbury,Waroona
+548,WA,Western Australia - Wheat Belt,Cunderdin
+549,WA,Western Australia - Wheat Belt,Cranbrook
+550,NSW,Murray,Murrumbidgee
+551,NSW,Sydney - Eastern Suburbs,Sydney
+552,WA,Western Australia - Wheat Belt,Kellerberrin
+553,WA,Perth - North East,Kalamunda
+554,Vic,Ballarat,Ararat
+555,NT,Northern Territory - Outback,Wagait
+556,Qld,Queensland - Outback,Weipa
+557,SA,Adelaide - North,Barossa
+558,Qld,Queensland - Outback,Pormpuraaw
+559,NSW,Far West and Orana,Bourke
+560,WA,Western Australia - Wheat Belt,Murray
+561,NSW,Coffs Harbour - Grafton,Richmond Valley
+562,Vic,Hume,Unincorporated Vic
+563,Vic,Hume,Greater Shepparton
+564,Qld,Townsville,Palm Island
+565,NT,Northern Territory - Outback,West Daly
+566,WA,Perth - Inner,Mosman Park
+567,WA,Western Australia - Wheat Belt,Narrogin
+568,WA,Western Australia - Wheat Belt,Merredin
+569,WA,Western Australia - Wheat Belt,Westonia
+570,WA,Western Australia - Outback (South),Morawa
+571,WA,Perth - Inner,Claremont
+572,WA,Western Australia - Outback (South),Mingenew
+573,NSW,Sydney - Parramatta,The Hills
+574,WA,Western Australia - Wheat Belt,Goomalling
+575,WA,Perth - Inner,Subiaco
+576,WA,Western Australia - Wheat Belt,Trayning
+577,Vic,Hume,Yarra Ranges
+578,WA,Western Australia - Outback (South),Shark Bay
+579,WA,Western Australia - Outback (South),Exmouth
+580,WA,Western Australia - Outback (South),Sandstone
+581,Vic,Warrnambool and South West,Surf Coast
+582,WA,Bunbury,Boyup Brook
+583,WA,Perth - Inner,Cottesloe
+584,WA,Western Australia - Outback (South),Leonora
