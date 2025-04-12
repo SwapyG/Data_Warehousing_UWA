@@ -1,8 +1,0 @@
-vehicle_key,bus_involvement,heavy_rigid_truck_involvement,articulated_truck_involvement,any_heavy_vehicle,vehicle_type_count
-1,No,No,No,No,0
-2,No,No,Yes,Yes,1
-3,Yes,No,Yes,Yes,2
-4,No,Yes,No,Yes,1
-5,No,Yes,Yes,Yes,2
-6,Yes,No,No,Yes,1
-7,Yes,Yes,No,Yes,2
